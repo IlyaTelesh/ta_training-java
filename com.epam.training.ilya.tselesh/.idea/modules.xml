@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/com.epam.training.ilya.tselesh.iml" filepath="$PROJECT_DIR$/.idea/com.epam.training.ilya.tselesh.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.first.program/java.first.program.iml" filepath="$PROJECT_DIR$/java.first.program/java.first.program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meet.autocode/meet.autocode.iml" filepath="$PROJECT_DIR$/meet.autocode/meet.autocode.iml" />
     </modules>
   </component>
 </project>
